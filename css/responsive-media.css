@@ -1,0 +1,165 @@
+
+    @media(max-width:767px) {
+        div#navbarSupportedContent {
+            background: #d81717;
+            z-index: 22222222222222;
+            width: 100%;
+        }
+
+        .top-header a {
+            font-size: 12px;
+        }
+
+        #secon-nav a {
+            display: none;
+        }
+
+        .mid-header {
+            height: 70px
+        }
+
+        .mid-header .logo-hm {
+            margin-right: -10px;
+            margin-top: -15px;
+            width: 100%
+        }
+
+        .social {
+            display: inline-block;
+            margin-top: 5px !important;
+            margin-right: 100px !important;
+            margin-left: -50px;
+        }
+
+        .mid-header .social i {
+            padding: 5px;
+            margin-right: 7px;
+        }
+
+        .menu-web {
+            height: 50px
+        }
+
+        .new-box img {
+            width: 95%;
+            display: block;
+            margin: 0 auto;
+            margin-right: 15px
+        }
+
+        .new-box .new-above {
+            padding-right: 10px;
+            padding-left: 7px;
+        }
+
+        .latest-news {
+            display: none;
+        }
+
+        .ecno-turk-box {
+            margin-bottom: 15px;
+            border-radius: 5px;
+        }
+
+        .ecno-turk-box .ecno-type,
+        .type {
+            top: 180px
+        }
+
+        .ecno-turky-box {
+            margin-right: -8px;
+            width: 98%;
+            margin-top: -30px;
+            margin-bottom: 50px
+        }
+
+        .ecno-world-box img {
+            height: auto
+        }
+
+        .techn-box {
+            display: block !important
+        }
+
+        .techn-box img {
+            margin-right: 0 !important;
+            width: 96%;
+        }
+
+        .hr.bold {
+            margin-top: -10px;
+        }
+
+        .techn-box {
+            margin-bottom: 15px;
+        }
+
+        .techn-box img-tech-sm img {
+            width: 100%;
+            margin: 0 auto;
+        }
+
+        .techn-box .tech-text {
+            padding-top: 7px;
+        }
+
+        .cokkt-box-lg {
+            margin-bottom: 15px !important;
+        }
+
+        .mr3 {
+            margin-right: 13px;
+            width: 100%;
+            margin-top: 15px
+        }
+
+        .m3 {
+            margin-top: -20px;
+        }
+
+        section.companey {
+            margin-top: 15px;
+        }
+
+        .companies-box .comp {
+            margin-right: 0px !important
+        }
+
+
+        .copy-right {
+            display: block !important;
+            text-align: center;
+            font-size: 11px;
+        }
+    }
+    @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+
+        .ecno-turk-box .ecno-type,
+        .type {
+            top: 100px
+        }
+        .cokk-text-sm {
+    font-size: 12px;
+    font-weight: normal !important;
+     padding: 10px; 
+}
+
+
+.cokkt-box-sm img {
+    height: 150px;
+    width:300px !important
+}
+        .cokkt-box img {
+    height: 315px;
+}
+        .cokkt-box p{
+            padding-right:6px;
+            padding-left:6px;
+        }#secon-nav{
+            margin-right: 0px;
+        }
+
+        #secon-nav a{
+            margin-right:0 !important;
+            
+        }}
